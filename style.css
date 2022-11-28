@@ -1,0 +1,46 @@
+.heading {
+    width: 100%;
+    font-size: 30px;
+}
+
+#start, #status {
+    font-size: 20px;
+}
+
+.heading h3 {
+    display: inline;
+    float: left;
+}
+
+.heading button {
+    float: right;
+    border: 2px dashed white;
+}
+
+#restart {
+    border: 2px dotted yellow;
+}
+
+.footer {
+    line-height: 30px;
+    background-color: blanchedalmond;
+    color:crimson;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+}
+
+.modal-dialog {
+    width: 70%;
+}
+
+.modal-body {
+    text-align: left;
+    font-size: 20px;
+}
+
+canvas {
+    border: 2px dashed black;
+    border-radius: 10px;
+}
